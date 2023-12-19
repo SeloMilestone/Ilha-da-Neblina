@@ -1,0 +1,39 @@
+{
+  "id": "phantyr-ilha-da-neblina",
+  "title": "Phantyr - Ilha da neblina",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Beholder"
+    }
+  ],
+  "packs": [
+    {
+      "name": "ilha-da-neblina",
+      "label": "Ilha da neblina",
+      "path": "packs/ilha-da-neblina",
+      "type": "Adventure",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "version": "#{VERSION}#",
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#"
+}
